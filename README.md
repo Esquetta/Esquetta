@@ -8,7 +8,7 @@ Asp.Net.I love play computer games.
 
 ## Skills and Experience
 
-⫸ Python 🐍
-⫸ C# 👨‍💻
-⫸ Java ☕
+* Python 🐍
+* C# 👨‍💻
+* Java ☕
 
