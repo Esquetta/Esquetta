@@ -8,8 +8,7 @@ Asp.Net.I love play computer games.
 
 ## Skills and Experience
 
-* Python 🐍
-* C# 👨‍💻
+* Python 🐍(In progress  with discord bot)
+* C# 👨‍💻 (2D platform Game with unity,AutoGalery Website with Mvc/EntityFrameWork)
 * Java ☕
-* TryHackme https://tryhackme.com/p/Esquetta 👾
 
