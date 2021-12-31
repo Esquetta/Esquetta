@@ -9,6 +9,6 @@ Asp.Net.I love play computer games.
 ## Skills and Experience
 
 * Python 🐍(In progress  with discord bot)
-* C# 👨‍💻 (2D platform Game with unity,AutoGalery Website with Mvc/EntityFramework)
+* C# 👨‍💻 (2D platform Game with unity,AutoGalery Website with (.NET 5.0,Mvc/EntityFramework))
 * Java ☕
 
