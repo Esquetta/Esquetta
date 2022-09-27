@@ -5,7 +5,7 @@ Hi there  👋
 
 🟢 I'm currently learning solidity.
 
-[![Esquetta'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Esquetta&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Esquetta'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Esquetta&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
