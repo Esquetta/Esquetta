@@ -1,4 +1,4 @@
- # <p align="center"> Hi there 👋,I'm Furkan Taşçı</p>
+  <h1 align="center"> Hi there 👋,I'm Furkan Taşçı</h1>
 
 
 🟢 I love to learn new technologies and working on diffrent projects.
