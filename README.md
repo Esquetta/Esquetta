@@ -1,7 +1,7 @@
-Hi there  👋
+                                                                          Hi there 👋,I'm Furkan Taşçı
 
 
-🟢 I'm Furkan from Turkey, and I do  development.I really enjoy learn new technologies.I love playing computer games.
+🟢 I love to learn new technologies and working on diffrent projects.
 
 🟢 I'm currently learning RabbitMQ.
 
