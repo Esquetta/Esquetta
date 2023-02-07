@@ -1,4 +1,4 @@
-                                                                          Hi there 👋,I'm Furkan Taşçı
+                                                           # Hi there 👋,I'm Furkan Taşçı
 
 
 🟢 I love to learn new technologies and working on diffrent projects.
