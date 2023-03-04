@@ -3,7 +3,9 @@
 
 🟢 I love to learn new technologies and working on diffrent projects.
 
-🟢 I'm currently learning RabbitMQ.
+🟢 I'm currently learning everything.
+
+🟢 I'm a lover of video games.
 
 [![Esquetta'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Esquetta&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
