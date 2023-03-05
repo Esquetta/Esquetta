@@ -9,16 +9,16 @@
 
 # Contact
 <!-- display the social media buttons in your README -->
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][0]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][1]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
 
 
 <!-- To Link your profile to the media buttons -->
 
-[2]: https://www.instagram.com/esquetta
-[3]: https://www.twitter.com/esquetta
-[4]: https://www.linkedin.com/in/username
+[0]: https://www.instagram.com/esquetta
+[1]: https://www.twitter.com/esquetta
+[2]: https://www.linkedin.com/in/furkan-taşçı-7411461aa/
 
 
 
