@@ -7,6 +7,8 @@
 
 🟢 I'm a lover of video games.
 
+🟢I'm current working on my friend group project  United.
+
 # Contact
 <!-- display the social media buttons in your README -->
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][0]
