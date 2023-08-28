@@ -3,7 +3,7 @@
 
 🟢 I love to learn new technologies and working on diffrent projects.
 
-🟢 I'm currently learning everything.
+🟢 I'm currently learning gRPC.
 
 🟢 I'm a lover of video games.
 
