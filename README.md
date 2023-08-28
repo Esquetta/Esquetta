@@ -7,7 +7,7 @@
 
 🟢 I'm a lover of video games.
 
-🟢I'm current working on my friend group project  United and learning gRPC.
+🟢I'm current working on my friend group project  United.
 
 # Contact
 <!-- display the social media buttons in your README -->
