@@ -3,7 +3,7 @@
 
 🟢 I love knowledge and learning the unknown.
 
-🟢 I'm currently learning gRPC.
+🟢 I'm currently learning Unit Test.
 
 🟢 I'm a lover of video games.
 
