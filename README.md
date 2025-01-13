@@ -3,7 +3,7 @@
 
 🟢 I love knowledge and learning the unknown.
 
-🟢 I'm currently learning GraphQL.
+🟢 I'm currently learning Design Patterns.
 
 🟢 I'm a lover of video games.
 
