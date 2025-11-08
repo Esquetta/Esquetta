@@ -3,7 +3,7 @@
 
 🟢 I love knowledge and learning the unknown.
 
-🟢 I'm currently learning AWS.
+🟢 I'm currently learning AWS and Kubernates.
 
 🟢 I'm a lover of video games.
 
