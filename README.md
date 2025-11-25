@@ -7,7 +7,7 @@
 
 🟢 I'm a lover of video games.
 
-🟢I'm current working on my friend group project  United.
+🟢I'm current working on smart voice assistant Kam
 
 # Contact
 <!-- display the social media buttons in your README -->
