@@ -7,7 +7,7 @@
 
 🟢 I'm a lover of video games.
 
-🟢I'm current working on smart voice assistant Kam
+🟢I'm current working on smart voice assistant [Kam](https://github.com/Esquetta/Kam)
 
 # Contact
 <!-- display the social media buttons in your README -->
