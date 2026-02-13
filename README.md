@@ -3,7 +3,7 @@
 
 🟢 I love knowledge and learning the unknown.
 
-🟢 I'm currently learning AvaloniaUI and Kubernates.
+🟢 I'm currently learning Keycloak.
 
 🟢 I'm a lover of video games.
 
