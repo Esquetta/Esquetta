@@ -7,7 +7,7 @@
 
 🟢 I'm a lover of video games.
 
-🟢I'm current working on smart voice assistant [Comment Command ]([https://github.com/Esquetta/Kam](https://commentcommand.com))
+🟢I'm current working on smart voice assistant [Comment Command](https://commentcommand.com)
 
 # Contact
 <!-- display the social media buttons in your README -->
