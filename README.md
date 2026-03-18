@@ -7,7 +7,7 @@
 
 🟢 I'm a lover of video games.
 
-🟢I'm current working on [Comment Command](https://commentcommand.com)
+🟢I'm current working on [Comment Command](https://commentcommand.com) & [PoeFarm Tracker](https://github.com/PoeFarmTracker/PoeFarmTracker)
 
 # Contact
 <!-- display the social media buttons in your README -->
