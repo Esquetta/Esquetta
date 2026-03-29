@@ -7,7 +7,7 @@
 
 🟢 I'm a lover of video games.
 
-🟢I'm current working on [Comment Command](https://commentcommand.com) 
+🟢I'm current working on [Comment Command](https://commentcommand.com) & [Juice Journal](https://github.com/orgs/JuiceJournal/repositories)
 
 # Contact
 <!-- display the social media buttons in your README -->
