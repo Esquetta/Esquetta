@@ -7,12 +7,20 @@
 
 <p align="center">
   <a href="https://esquetta.netlify.app">Portfolio</a>
-  ·
+  |
   <a href="https://commentcommand.com">Comment Command</a>
-  ·
+  |
   <a href="https://github.com/JuiceJournal/JuiceJournal">JuiceJournal</a>
-  ·
+  |
+  <a href="https://www.npmjs.com/package/codex-plugin-doctor">Codex Plugin Doctor</a>
+  |
   <a href="mailto:esquetta@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/codex-plugin-doctor">
+    <img src="https://img.shields.io/npm/v/codex-plugin-doctor?style=flat-square&logo=npm&label=codex-plugin-doctor" alt="codex-plugin-doctor npm version" />
+  </a>
 </p>
 
 ---
@@ -21,7 +29,7 @@
 
 - Product-focused full-stack development with **ASP.NET Core**, **React**, and **TypeScript**
 - AI-assisted workflows, agent patterns, MCP integrations, and automation tooling
-- SaaS operations dashboards, admin workflows, multi-tenant backend systems, and release tooling
+- SaaS operations dashboards, admin workflows, multi-tenant backend systems, and published developer tooling
 - Desktop and web product development with Electron, Node.js, PostgreSQL, Docker, and CI workflows
 
 ---
@@ -40,6 +48,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
@@ -51,10 +60,10 @@
 | --- | --- |
 | [Comment Command](https://commentcommand.com) | Multi-platform comment operations, AI-assisted workflows, admin/demo flows, and production-oriented SaaS thinking. |
 | [JuiceJournal](https://github.com/JuiceJournal/JuiceJournal) | Electron + Node.js product for Path of Exile economy tracking, session analytics, OAuth, WebSocket flows, and desktop UX. |
+| [Codex Plugin Doctor](https://www.npmjs.com/package/codex-plugin-doctor) | Published npm CLI for validating Codex plugins, skills, and MCP package surfaces with runtime protocol checks. |
 | [Kam](https://github.com/Esquetta/Kam) | C# smart voice assistant work with a recent public codebase signal. |
 | CrewFlow | Field-service operations platform with ASP.NET Core, React, PostgreSQL, multi-tenant workflows, scheduling, and invoice-ready records. |
 | PainRadar | Release-readiness, operational guardrails, and reliability-focused .NET product engineering. |
-| Codex Plugin Doctor | TypeScript CLI tooling for validating Codex plugins, skills, and MCP package surfaces. |
 
 ---
 
