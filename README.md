@@ -14,12 +14,17 @@
   |
   <a href="https://www.npmjs.com/package/codex-plugin-doctor">Codex Plugin Doctor</a>
   |
+  <a href="https://www.npmjs.com/package/open-local-audit">Open Local Audit</a>
+  |
   <a href="mailto:esquetta@gmail.com">Email</a>
 </p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/codex-plugin-doctor">
     <img src="https://img.shields.io/npm/v/codex-plugin-doctor?style=flat-square&logo=npm&label=codex-plugin-doctor" alt="codex-plugin-doctor npm version" />
+  </a>
+  <a href="https://www.npmjs.com/package/open-local-audit">
+    <img src="https://img.shields.io/npm/v/open-local-audit?style=flat-square&logo=npm&label=open-local-audit" alt="open-local-audit npm version" />
   </a>
 </p>
 
@@ -29,7 +34,8 @@
 
 - Product-focused full-stack development with **ASP.NET Core**, **React**, and **TypeScript**
 - AI-assisted workflows, agent patterns, MCP integrations, and automation tooling
-- SaaS operations dashboards, admin workflows, multi-tenant backend systems, and published developer tooling
+- Published CLI tooling for Codex validation, local SEO audits, and small-business website diagnostics
+- SaaS operations dashboards, admin workflows, multi-tenant backend systems, and developer tooling
 - Desktop and web product development with Electron, Node.js, PostgreSQL, Docker, and CI workflows
 
 ---
@@ -61,6 +67,7 @@
 | [Comment Command](https://commentcommand.com) | Multi-platform comment operations, AI-assisted workflows, admin/demo flows, and production-oriented SaaS thinking. |
 | [JuiceJournal](https://github.com/JuiceJournal/JuiceJournal) | Electron + Node.js product for Path of Exile economy tracking, session analytics, OAuth, WebSocket flows, and desktop UX. |
 | [Codex Plugin Doctor](https://www.npmjs.com/package/codex-plugin-doctor) | Published npm CLI for validating Codex plugins, skills, and MCP package surfaces with runtime protocol checks. |
+| [Open Local Audit](https://www.npmjs.com/package/open-local-audit) | Published npm CLI for small-business website and local-presence audits, including SEO, accessibility, structured data, and discovery workflows. |
 | [Kam](https://github.com/Esquetta/Kam) | C# smart voice assistant work with a recent public codebase signal. |
 | CrewFlow | Field-service operations platform with ASP.NET Core, React, PostgreSQL, multi-tenant workflows, scheduling, and invoice-ready records. |
 | PainRadar | Release-readiness, operational guardrails, and reliability-focused .NET product engineering. |
