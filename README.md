@@ -85,17 +85,7 @@ SaaS operations UX         Workflow orchestration       Product reliability
 
 ### GitHub Activity
 
-![](./profile-summary-card-output/github_dark/0-profile-details.svg)
-
-<p>
-  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories by language" />
-  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits by language" />
-</p>
-
-<p>
-  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-  <img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
-</p>
+![Top languages](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 ---
 
