@@ -83,12 +83,14 @@ SaaS operations UX         Workflow orchestration       Product reliability
 
 ---
 
-### GitHub
+### Public Signals
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Esquetta&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esquetta&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
+| Source | Signal |
+| --- | --- |
+| [GitHub Profile](https://github.com/Esquetta) | Public repositories, product work, experiments, and release history. |
+| [codex-plugin-doctor on npm](https://www.npmjs.com/package/codex-plugin-doctor) | Published CLI for Codex plugin, skill, and MCP package validation. |
+| [open-local-audit on npm](https://www.npmjs.com/package/open-local-audit) | Published CLI for website, local SEO, accessibility, and structured-data audits. |
+| [JuiceJournal](https://github.com/JuiceJournal/JuiceJournal) | Public Electron/Node.js product with game economy tracking and session analytics. |
 
 ---
 
