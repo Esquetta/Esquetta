@@ -69,9 +69,6 @@
 | [Codex Plugin Doctor](https://www.npmjs.com/package/codex-plugin-doctor) | Published npm CLI for validating Codex plugins, skills, and MCP package surfaces with runtime protocol checks. |
 | [Open Local Audit](https://www.npmjs.com/package/open-local-audit) | Published npm CLI for small-business website and local-presence audits, including SEO, accessibility, structured data, and discovery workflows. |
 | [Kam](https://github.com/Esquetta/Kam) | C# smart voice assistant work with a recent public codebase signal. |
-| CrewFlow | Field-service operations platform with ASP.NET Core, React, PostgreSQL, multi-tenant workflows, scheduling, and invoice-ready records. |
-| PainRadar | Release-readiness, operational guardrails, and reliability-focused .NET product engineering. |
-
 ---
 
 ### Engineering Interests
