@@ -23,9 +23,6 @@
   <a href="https://www.npmjs.com/package/codex-plugin-doctor">
     <img src="https://img.shields.io/npm/v/codex-plugin-doctor?style=flat-square&logo=npm&label=codex-plugin-doctor" alt="codex-plugin-doctor npm version" />
   </a>
-  <a href="https://www.npmjs.com/package/open-local-audit">
-    <img src="https://img.shields.io/npm/v/open-local-audit?style=flat-square&logo=npm&label=open-local-audit" alt="open-local-audit npm version" />
-  </a>
 </p>
 
 ---
