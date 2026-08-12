@@ -1,98 +1,26 @@
-<h1 align="center">Furkan Tasci</h1>
+# Furkan Tasci
 
-<p align="center">
-  <strong>Software Developer</strong><br />
-  Building full-stack products with .NET, React, TypeScript, AI integrations, and practical automation workflows.
-</p>
+Full-stack engineer building developer tools, SaaS products, and local-first software.
 
-<p align="center">
-  <a href="https://esquetta.netlify.app">Portfolio</a>
-  |
-  <a href="https://commentcommand.com">Comment Command</a>
-  |
-  <a href="https://github.com/JuiceJournal/JuiceJournal">JuiceJournal</a>
-  |
-  <a href="https://www.npmjs.com/package/codex-plugin-doctor">Codex Plugin Doctor</a>
-  |
-  <a href="https://www.npmjs.com/package/open-local-audit">Open Local Audit</a>
-  |
-  <a href="mailto:esquetta@gmail.com">Email</a>
-</p>
+Most of my work sits between .NET backend systems and TypeScript product interfaces. I care about tools with clear jobs and software that holds up outside a demo.
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/codex-plugin-doctor">
-    <img src="https://img.shields.io/npm/v/codex-plugin-doctor?style=flat-square&logo=npm&label=codex-plugin-doctor" alt="codex-plugin-doctor npm version" />
-  </a>
-</p>
+## Current work
 
----
+- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI that validates Codex plugin packages, skills, and MCP server bundles. Published as [`codex-plugin-doctor`](https://www.npmjs.com/package/codex-plugin-doctor).
+- **[Open Local Audit](https://github.com/Esquetta/open-local-audit)** — An open-source CLI for auditing small-business websites and local presence. Published as [`open-local-audit`](https://www.npmjs.com/package/open-local-audit).
+- **[LaunchLens](https://github.com/Esquetta/launchlens)** — Paid-media launch QA for ad-to-page fit, policy-safe rewrites, and test planning. [Live product](https://launchlens-plum.vercel.app).
+- **[Comment Command](https://commentcommand.com)** — A live SaaS product for multi-platform comment operations and assisted workflows.
+- **[Kam](https://github.com/Esquetta/Kam)** — A C#/.NET desktop agent for voice, skills, model-flexible planning, and workstation automation.
+- **[MeterGuard by Torut](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. **In validation** through targeted outreach.
 
-### Focus
+## Selected work
 
-- Product-focused full-stack development with **ASP.NET Core**, **React**, and **TypeScript**
-- AI-assisted workflows, agent patterns, MCP integrations, and automation tooling
-- Published CLI tooling for Codex validation, local SEO audits, and small-business website diagnostics
-- SaaS operations dashboards, admin workflows, multi-tenant backend systems, and developer tooling
-- Desktop and web product development with Electron, Node.js, PostgreSQL, Docker, and CI workflows
+- **[JuiceJournal](https://github.com/JuiceJournal/JuiceJournal)** — Collaborative Electron, Node.js, and PostgreSQL work for Path of Exile economy tracking and session analytics.
 
----
+## Working stack
 
-### Tech Stack
+`.NET / C#` · `TypeScript` · `React` · `Electron` · `PostgreSQL`
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
+## Contact
 
----
-
-### Featured Work
-
-| Project | What it shows |
-| --- | --- |
-| [Comment Command](https://commentcommand.com) | Multi-platform comment operations, AI-assisted workflows, admin/demo flows, and production-oriented SaaS thinking. |
-| [JuiceJournal](https://github.com/JuiceJournal/JuiceJournal) | Electron + Node.js product for Path of Exile economy tracking, session analytics, OAuth, WebSocket flows, and desktop UX. |
-| [Codex Plugin Doctor](https://www.npmjs.com/package/codex-plugin-doctor) | Published npm CLI for validating Codex plugins, skills, and MCP package surfaces with runtime protocol checks. |
-| [Open Local Audit](https://www.npmjs.com/package/open-local-audit) | Published npm CLI for small-business website and local-presence audits, including SEO, accessibility, structured data, and discovery workflows. |
-| [Kam](https://github.com/Esquetta/Kam) | C# smart voice assistant work with a recent public codebase signal. |
----
-
-### Engineering Interests
-
-```txt
-Backend architecture       AI agents & automation       Developer tooling
-SaaS operations UX         Workflow orchestration       Product reliability
-```
-
----
-
-### GitHub Activity
-
-![Top languages](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
-
----
-
-### Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/furkan-ta%C5%9F%C3%A7%C4%B1-7411461aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:esquetta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Esquetta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[Portfolio](https://esquetta.netlify.app) · [LinkedIn](https://www.linkedin.com/in/furkan-ta%C5%9F%C3%A7%C4%B1-7411461aa/) · [Email](mailto:esquetta@gmail.com)
