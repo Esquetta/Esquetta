@@ -1,25 +1,28 @@
 # Furkan Tasci
 
-Full-stack engineer building developer tools, SaaS products, and local-first software.
+Software developer building .NET and TypeScript products, developer tools, and local-first applications.
 
-Most of my work sits between .NET backend systems and TypeScript product interfaces. I care about tools with clear jobs and software that holds up outside a demo.
+Alongside my day job, I build and deploy independent projects. My full-stack work spans backend APIs, data models, web interfaces, background jobs, testing, and deployment. The projects below are the clearest examples of that work.
 
-## Current work
+I use AI coding agents throughout development: I define the scope, provide project context, review changes, run checks, and own the result. I am also studying applied AI/ML and turning what I learn into small, inspectable experiments.
 
-- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI that validates Codex plugin packages, skills, and MCP server bundles. Published as [`codex-plugin-doctor`](https://www.npmjs.com/package/codex-plugin-doctor).
-- **[Open Local Audit](https://github.com/Esquetta/open-local-audit)** — An open-source CLI for auditing small-business websites and local presence. Published as [`open-local-audit`](https://www.npmjs.com/package/open-local-audit).
-- **[LaunchLens](https://github.com/Esquetta/launchlens)** — Paid-media launch QA for ad-to-page fit, policy-safe rewrites, and test planning. [Live product](https://launchlens-plum.vercel.app).
-- **[Comment Command](https://commentcommand.com)** — A live SaaS product for multi-platform comment operations and assisted workflows.
-- **[Kam](https://github.com/Esquetta/Kam)** — A C#/.NET desktop agent for voice, skills, model-flexible planning, and workstation automation.
-- **[MeterGuard by Torut](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. **In validation** through targeted outreach.
+## Products and tools
 
-## Selected work
+- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI for validating Codex plugins, skills, and MCP bundles, with static checks and opt-in runtime validation. [npm](https://www.npmjs.com/package/codex-plugin-doctor).
+- **[Open Local Audit](https://github.com/Esquetta/open-local-audit)** — A published CLI for website and local-presence audits, with reports that connect findings to evidence. [npm](https://www.npmjs.com/package/open-local-audit).
+- **[LaunchLens](https://github.com/Esquetta/launchlens)** — An ad-to-landing-page QA tool with issue reports, suggested revisions, and spreadsheet exports. [Demo](https://launchlens-plum.vercel.app).
+- **[Comment Command](https://commentcommand.com)** — A deployed .NET and React application for YouTube and Instagram comment workflows, reporting, and automation.
+- **[Kam](https://github.com/Esquetta/Kam)** — A .NET desktop agent with voice interaction, modular skills, and controlled workstation automation. In development.
+- **[MeterGuard by Torut](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. In validation.
 
-- **[JuiceJournal](https://github.com/JuiceJournal/JuiceJournal)** — Collaborative Electron, Node.js, and PostgreSQL work for Path of Exile economy tracking and session analytics.
+## Learning and collaborative work
+
+- **[Gradient Descent Failure Atlas](https://github.com/Esquetta/GradientDescentFailureAtlas)** — Interactive linear-regression experiments exploring learning rate, feature scale, outliers, correlated features, and initialization. Part of my applied AI/ML learning.
+- **[JuiceJournal](https://github.com/JuiceJournal/JuiceJournal)** — Collaborative work on Electron, Node.js, and PostgreSQL tooling for Path of Exile economy tracking and session analytics.
 
 ## Working stack
 
-`.NET / C#` · `TypeScript` · `React` · `Electron` · `PostgreSQL`
+C# / .NET · TypeScript · React · Angular · Node.js · PostgreSQL · SQL Server · Docker
 
 ## Contact
 
