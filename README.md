@@ -6,6 +6,8 @@ Alongside my day job, I build and deploy independent projects. My full-stack wor
 
 I use AI coding agents throughout development: I define the scope, provide project context, review changes, run checks, and own the result. I am also studying applied AI/ML and turning what I learn into small, inspectable experiments.
 
+The [Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflow) reference shares the task packets, delegation rules, and independent review checks behind this process.
+
 ## Products and tools
 
 - **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI for validating Codex plugins, skills, and MCP bundles, with static checks and opt-in runtime validation. [npm](https://www.npmjs.com/package/codex-plugin-doctor).
