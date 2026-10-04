@@ -1,8 +1,8 @@
-# Furkan Tasci
+# Furkan Taşçı
 
-Software developer building .NET and TypeScript products, developer tools, and local-first applications.
+Full-stack software developer building .NET, React, and TypeScript products and developer tools.
 
-Alongside my day job, I build and deploy independent projects. My full-stack work spans backend APIs, data models, web interfaces, background jobs, testing, and deployment. The projects below are the clearest examples of that work.
+Alongside my day job, I run [TORUT](https://torut.dev), a small UK-registered software startup, and build independent projects. My full-stack work spans backend APIs, data models, web interfaces, background jobs, testing, and deployment. The projects below are the clearest examples of that work.
 
 I use AI coding agents throughout development: I define the scope, provide project context, review changes, run checks, and own the result. I am also studying applied AI/ML and turning what I learn into small, inspectable experiments.
 
@@ -13,9 +13,9 @@ The [Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflo
 - **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI for validating Codex plugins, skills, and MCP bundles, with static checks and opt-in runtime validation. [npm](https://www.npmjs.com/package/codex-plugin-doctor).
 - **[Open Local Audit](https://github.com/Esquetta/open-local-audit)** — A published CLI for website and local-presence audits, with reports that connect findings to evidence. [npm](https://www.npmjs.com/package/open-local-audit).
 - **[LaunchLens](https://github.com/Esquetta/launchlens)** — An ad-to-landing-page QA tool with issue reports, suggested revisions, and spreadsheet exports. [Demo](https://launchlens-plum.vercel.app).
-- **[Comment Command](https://commentcommand.com)** — A deployed .NET and React application for YouTube and Instagram comment workflows, reporting, and automation.
+- **[Comment Command](https://commentcommand.com)** — TORUT's live .NET and React product for YouTube comment management, with Instagram on Pro and Agency plans.
 - **[Kam](https://github.com/Esquetta/Kam)** — A .NET desktop agent with voice interaction, modular skills, and controlled workstation automation. In development.
-- **[MeterGuard by Torut](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. In validation.
+- **[MeterGuard by TORUT](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. Paused after validation did not find a paying customer.
 
 ## Learning and collaborative work
 
