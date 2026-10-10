@@ -10,12 +10,12 @@ The [Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflo
 
 ## Products and tools
 
-- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI for validating Codex plugins, skills, and MCP bundles, with static checks and opt-in runtime validation. [npm](https://www.npmjs.com/package/codex-plugin-doctor).
+- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI and GitHub Action for validating Codex plugins, skills, and MCP bundles, with static checks, opt-in runtime validation, and MCP tool diffs that flag breaking changes. [npm](https://www.npmjs.com/package/codex-plugin-doctor).
 - **[Open Local Audit](https://github.com/Esquetta/open-local-audit)** — A published CLI for website and local-presence audits, with reports that connect findings to evidence. [npm](https://www.npmjs.com/package/open-local-audit).
 - **[LaunchLens](https://github.com/Esquetta/launchlens)** — An ad-to-landing-page QA tool with issue reports, suggested revisions, and spreadsheet exports. [Demo](https://launchlens-plum.vercel.app).
 - **[Comment Command](https://commentcommand.com)** — TORUT's live .NET and React product for YouTube comment management, with Instagram on Pro and Agency plans.
-- **[Kam](https://github.com/Esquetta/Kam)** — A .NET desktop agent with voice interaction, modular skills, and controlled workstation automation. In development.
-- **[MeterGuard by TORUT](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. Paused after validation did not find a paying customer.
+- **[Kam](https://github.com/Esquetta/Kam)** — A local .NET desktop agent that runs built-in skills, MCP servers, and plugins through one tool-calling loop with permission rules, with local Whisper voice input and an English and Turkish interface. In active development.
+- **[MeterGuard Solo](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. Paused after validation did not find a paying customer.
 
 ## Learning and collaborative work
 
@@ -24,7 +24,7 @@ The [Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflo
 
 ## Working stack
 
-C# / .NET · TypeScript · React · Angular · Node.js · PostgreSQL · SQL Server · Docker
+C# / .NET · ASP.NET Core · EF Core · TypeScript · React · Node.js · PostgreSQL · Hangfire · Docker · GitHub Actions · MCP · Avalonia · Stripe
 
 ## Contact
 
