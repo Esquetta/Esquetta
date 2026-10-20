@@ -1,30 +1,30 @@
 # Furkan Taşçı
 
-Full-stack software developer building .NET, React, and TypeScript products and developer tools.
+.NET developer in Istanbul, working mostly on the backend with C#, ASP.NET Core and SQL.
 
-Alongside my day job, I run [TORUT](https://torut.dev), a small UK-registered software startup, and build independent projects. My full-stack work spans backend APIs, data models, web interfaces, background jobs, testing, and deployment. The projects below are the clearest examples of that work.
+During the day I handle customer issues at a software consultancy, mostly with SQL. On the side I run [TORUT](https://torut.dev), a small UK-registered software company, where [Comment Command](https://commentcommand.com) is live. I use Codex and Claude Code every day and have published a few small tools for that work.
 
-I use AI coding agents throughout development: I define the scope, provide project context, review changes, run checks, and own the result. I am also studying applied AI/ML and turning what I learn into small, inspectable experiments.
+## What I'm building
 
-The [Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflow) reference shares the task packets, delegation rules, and independent review checks behind this process.
+- **[Comment Command](https://commentcommand.com)**: a .NET and React app for handling YouTube and Instagram comments as a team. Live.
+- **[Kam](https://github.com/Esquetta/Kam)**: a desktop assistant I'm building in .NET with Avalonia. It runs skills, MCP servers and plugins under permission rules and takes voice input through local Whisper.
 
-## Products and tools
+## Tools on npm
 
-- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)** — A TypeScript CLI and GitHub Action for validating Codex plugins, skills, and MCP bundles, with static checks, opt-in runtime validation, and MCP tool diffs that flag breaking changes. [npm](https://www.npmjs.com/package/codex-plugin-doctor).
-- **[Open Local Audit](https://github.com/Esquetta/open-local-audit)** — A published CLI for website and local-presence audits, with reports that connect findings to evidence. [npm](https://www.npmjs.com/package/open-local-audit).
-- **[LaunchLens](https://github.com/Esquetta/launchlens)** — An ad-to-landing-page QA tool with issue reports, suggested revisions, and spreadsheet exports. [Demo](https://launchlens-plum.vercel.app).
-- **[Comment Command](https://commentcommand.com)** — TORUT's live .NET and React product for YouTube comment management, with Instagram on Pro and Agency plans.
-- **[Kam](https://github.com/Esquetta/Kam)** — A local .NET desktop agent that runs built-in skills, MCP servers, and plugins through one tool-calling loop with permission rules, with local Whisper voice input and an English and Turkish interface. In active development.
-- **[MeterGuard Solo](https://meterguard.torut.dev)** — A read-only billing audit for SaaS teams using Stripe credits and usage-based pricing. Paused after validation did not find a paying customer.
+- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)**: checks Codex plugins, skills and MCP packages before release. Also works as a GitHub Action. [npm](https://www.npmjs.com/package/codex-plugin-doctor)
+- **[turntax](https://github.com/TorutDev/turntax)**: shows how many tokens AI coding agents spend on instruction files like CLAUDE.md and AGENTS.md on every turn. [npm](https://www.npmjs.com/package/turntax)
+- **[Open Local Audit](https://github.com/Esquetta/open-local-audit)**: scans small business websites for SEO, accessibility and local search issues. [npm](https://www.npmjs.com/package/open-local-audit)
 
-## Learning and collaborative work
+## Other work
 
-- **[Gradient Descent Failure Atlas](https://github.com/Esquetta/GradientDescentFailureAtlas)** — Interactive linear-regression experiments exploring learning rate, feature scale, outliers, correlated features, and initialization. Part of my applied AI/ML learning.
-- **[JuiceJournal](https://github.com/JuiceJournal/JuiceJournal)** — Collaborative work on Electron, Node.js, and PostgreSQL tooling for Path of Exile economy tracking and session analytics.
+- **[Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflow)**: how I split work for AI coding agents and review what they produce.
+- **[MeterGuard Solo](https://meterguard.torut.dev)**: compares product usage with Stripe billing. Paused after I couldn't find a paying customer.
+- **[Gradient Descent Failure Atlas](https://github.com/Esquetta/GradientDescentFailureAtlas)**: interactive experiments I made while studying ML.
+- **[JuiceJournal](https://github.com/JuiceJournal/JuiceJournal)**: a shared project; Electron, Node.js and PostgreSQL tooling for Path of Exile session tracking.
 
-## Working stack
+## Stack
 
-C# / .NET · ASP.NET Core · EF Core · TypeScript · React · Node.js · PostgreSQL · Hangfire · Docker · GitHub Actions · MCP · Avalonia · Stripe
+C# · .NET · ASP.NET Core · EF Core · SQL Server · PostgreSQL · TypeScript · React · Docker · GitHub Actions
 
 ## Contact
 
