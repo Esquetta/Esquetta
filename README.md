@@ -10,12 +10,13 @@ During the day I handle customer issues at a software consultancy, mostly with S
 - **[Open Local Audit](https://github.com/Esquetta/open-local-audit)**: scans small business websites for SEO, accessibility and local search issues. [npm](https://www.npmjs.com/package/open-local-audit)
 - **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)**: checks Codex plugins, skills and MCP packages before release. Also works as a GitHub Action. [npm](https://www.npmjs.com/package/codex-plugin-doctor)
 - **[turntax](https://github.com/TorutDev/turntax)**: shows how many tokens AI coding agents spend on instruction files like CLAUDE.md and AGENTS.md on every turn. [npm](https://www.npmjs.com/package/turntax)
-- **[Juice Journal](https://github.com/JuiceJournal/JuiceJournal)**: a Path of Exile farming journal I build with a partner. An Electron app with an in-game overlay and poe.ninja pricing. No ads, and the data stays on your PC. In alpha.
+- **[Juice Journal](https://github.com/JuiceJournal/JuiceJournal)**: a Path of Exile farming journal I build with a partner. An Electron app with an in-game overlay and poe.ninja pricing. No ads, and the data stays on your PC. Pre-release: Windows installers are on GitHub Releases, tested on Path of Exile 2 so far.
 
 ## Upstream pull requests
 
-- **[nats-io/nats.net #1294](https://github.com/nats-io/nats.net/pull/1294)**: adds opt-in endpoint concurrency to NATS services. Open, draft.
+- **[nats-io/nats.net #1294](https://github.com/nats-io/nats.net/pull/1294)**: adds opt-in endpoint concurrency to NATS services. Open.
 - **[dotnet/machinelearning #7888](https://github.com/dotnet/machinelearning/pull/7888)**: clarifies the `samplingKeyColumnName` docs and rejects the label column as the AutoML sampling key. Open.
+- **[havit/Havit.Blazor #1946](https://github.com/havit/Havit.Blazor/pull/1946)**: fixes the docs API renderer showing array types as `string<>` instead of `string[]`, with tests. Open.
 
 ## Learning
 
