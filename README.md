@@ -1,6 +1,6 @@
 # Furkan Taşçı
 
-.NET developer in Istanbul. I work mostly on the backend with C#, ASP.NET Core and SQL, and I build software with AI coding agents (Codex and Claude Code) every day.
+Software developer in Istanbul. My home ground is the backend with C# and .NET, and I build the rest of the product too: React front ends, desktop apps, data and deployment. I work with AI coding agents (Codex and Claude Code) every day.
 
 During the day I handle customer issues at a software consultancy. On the side I run [TORUT](https://torut.dev), a small UK-registered software company.
 
@@ -14,7 +14,14 @@ The rest is in the repositories below.
 
 ## Stack
 
-C# · .NET · ASP.NET Core · EF Core · SQL Server · PostgreSQL · TypeScript · React · Docker · GitHub Actions
+| | |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core, Web API, EF Core, MediatR, SignalR, Hangfire, RabbitMQ |
+| **Frontend and desktop** | TypeScript, JavaScript, React, Next.js, Angular, Vite, Electron |
+| **Data** | SQL Server, PostgreSQL, Oracle, MongoDB |
+| **AI** | Codex, Claude Code, OpenAI API, MCP, Python |
+| **DevOps** | Docker, GitHub Actions, Cloudflare Pages, Netlify |
+| **Testing** | xUnit, Cypress |
 
 ## Contact
 
