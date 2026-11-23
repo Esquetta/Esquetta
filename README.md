@@ -1,33 +1,16 @@
 # Furkan Taşçı
 
-.NET developer in Istanbul, working mostly on the backend with C#, ASP.NET Core and SQL. I also build tooling for AI coding agents.
+.NET developer in Istanbul. I work mostly on the backend with C#, ASP.NET Core and SQL, and I build software with AI coding agents (Codex and Claude Code) every day.
 
-During the day I handle customer issues at a software consultancy, mostly with SQL. On the side I run [TORUT](https://torut.dev), a small UK-registered software company, where [Comment Command](https://commentcommand.com) is live. I use Codex and Claude Code every day, and I keep working on a few open-source tools.
+During the day I handle customer issues at a software consultancy. On the side I run [TORUT](https://torut.dev), a small UK-registered software company.
 
-## What I'm working on
+## Lately
 
-- **[Comment Command](https://commentcommand.com)**: a .NET, React and PostgreSQL app for handling YouTube and Instagram comments as a team, with AI-suggested labels and replies. Live.
-- **[Open Local Audit](https://github.com/Esquetta/open-local-audit)**: scans small business websites for SEO, accessibility and local search issues. [npm](https://www.npmjs.com/package/open-local-audit)
-- **[Codex Plugin Doctor](https://github.com/Esquetta/CodexPluginDoctor)**: checks Codex plugins, skills and MCP packages before release. Also works as a GitHub Action. [npm](https://www.npmjs.com/package/codex-plugin-doctor)
-- **[turntax](https://github.com/TorutDev/turntax)**: shows how many tokens AI coding agents spend on instruction files like CLAUDE.md and AGENTS.md on every turn. [npm](https://www.npmjs.com/package/turntax)
-- **[Juice Journal](https://github.com/JuiceJournal/JuiceJournal)**: a Path of Exile farming journal I build with a partner. An Electron app with an in-game overlay and poe.ninja pricing. No ads, and the data stays on your PC. Pre-release: Windows installers are on GitHub Releases, tested on Path of Exile 2 so far.
+- **Upstream:** two fixes merged into [Marten](https://github.com/JasperFx/marten/pull/6103) and [JasperFx](https://github.com/JasperFx/jasperfx/pull/1246). Open: [NATS .NET #1294](https://github.com/nats-io/nats.net/pull/1294) and [dotnet/machinelearning #7888](https://github.com/dotnet/machinelearning/pull/7888).
+- **Writing:** [one change, from a bug report to a release, built with agents](https://esquetta.netlify.app/notes/one-change-built-with-agents/). More in [Dev Notes](https://esquetta.netlify.app/notes/).
+- **How I work with agents:** [Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflow).
 
-## Upstream pull requests
-
-- **[nats-io/nats.net #1294](https://github.com/nats-io/nats.net/pull/1294)**: adds opt-in endpoint concurrency to NATS services. Open.
-- **[dotnet/machinelearning #7888](https://github.com/dotnet/machinelearning/pull/7888)**: clarifies the `samplingKeyColumnName` docs and rejects the label column as the AutoML sampling key. Open.
-- **[havit/Havit.Blazor #1946](https://github.com/havit/Havit.Blazor/pull/1946)**: fixes the docs API renderer showing array types as `string<>` instead of `string[]`, with tests. Open.
-
-## Learning
-
-- **[Baraj Aynası](https://esquetta.github.io/baraj-aynasi/)**: estimates how full İstanbul's reservoirs are from Sentinel-2 satellite images and checks them against the figures İSKİ publishes. The published estimates use NDWI; the U-Net I trained was an experiment.
-- **[Gradient Descent Failure Atlas](https://github.com/Esquetta/GradientDescentFailureAtlas)**: interactive experiments I made while studying ML.
-
-## Other work
-
-- **[Kam](https://github.com/Esquetta/Kam)**: a desktop assistant I built in .NET with Avalonia. It runs skills, MCP servers and plugins under permission rules and takes voice input through local Whisper. Published, no longer in active development.
-- **[Codex Delivery Workflow](https://github.com/Esquetta/codex-delivery-workflow)**: how I split work for AI coding agents and review what they produce.
-- **[MeterGuard Solo](https://meterguard.torut.dev)**: compares product usage with Stripe billing. Paused after I couldn't find a paying customer.
+The rest is in the repositories below.
 
 ## Stack
 
